@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD JISHAN</h1>
-<h3 align="center">1st Year Computer Science Student</h3>
+<h3 align="center">1st Year Computer Science Student</h3><br>
 
-<img align="right" alt="coding" width="400" src"![image](https://github.com/Melearner777/Melearner777/assets/152049778/d553cd9b-869c-4c56-8ba3-85bcdde98ccc)
-">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=melearner777&label=Profile%20views&color=0e75b6&style=flat" alt="melearner777" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melearner777" alt="melearner777" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<img align="right" alt="Coding" width="350" src="https://github.com/Melearner777/Melearner777/assets/152049778/d553cd9b-869c-4c56-8ba3-85bcdde98ccc">
 - 🔭 I’m currently working on **Student Performence Monitoring System**
 
 - 🌱 I’m currently learning **OOPS**
@@ -20,6 +13,13 @@
 - 📫 How to reach me **mohmdjishan607@gmail.com**
 
 - ⚡ Fun fact **As I lay down my knowledge, I feel as though I am a fool.**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=melearner777&label=Profile%20views&color=0e75b6&style=flat" alt="melearner777" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melearner777" alt="melearner777" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
