@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD JISHAN</h1>
 <h3 align="center">1st Year Computer Science Student</h3>
-
 <img align="right" alt="Coding" width="350" src="https://github.com/Melearner777/Melearner777/assets/152049778/d553cd9b-869c-4c56-8ba3-85bcdde98ccc">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melearner777&label=Profile%20views&color=0e75b6&style=flat" alt="melearner777" /> </p>
@@ -11,11 +10,11 @@
 
 - 🔭 I’m currently working on **Student Performence Monitoring System**
 
-- 🌱 I’m currently learning **OOPS**
+- 🌱 I’m currently learning JAVA &SQL **OOPS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Melearner777](https://github.com/Melearner777)
 
-- 💬 Ask me about **C,CPP,PYTHON**
+- 💬 Ask me about **C,CPP,PYTHON,JAVA**
 
 - 📫 How to reach me **mohmdjishan607@gmail.com**
 
