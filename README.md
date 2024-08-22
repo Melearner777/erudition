@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Melearner777](https://github.com/Melearner777)
 
-- 💬 Ask me about **C,CPP,PYTHON**
+- 💬 Ask me about **C,CPP,PYTHON,JAVA**
 
 - 📫 How to reach me **mohmdjishan607@gmail.com**
 
